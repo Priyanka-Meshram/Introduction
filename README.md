@@ -12,7 +12,7 @@
 
 - 📫 Email Id **piya.meshram0204@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xbItR_Q_SitEyRb_W7uzx_pmCw_BR9yp/view?usp=sharing](https://drive.google.com/file/d/1xbItR_Q_SitEyRb_W7uzx_pmCw_BR9yp/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/190ll9KJvCIM1f9su2wYQKeH3fyyJVP-D/view?usp=sharing](https://drive.google.com/file/d/190ll9KJvCIM1f9su2wYQKeH3fyyJVP-D/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
