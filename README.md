@@ -1,4 +1,7 @@
 ![logo](https://github.com/Priyanka-Meshram/Priyanka-Meshram/blob/main/Banner.png)
+
+<head>
+  <meta name="google-site-verification" content="3FHgjTxROCSqtoN0etBK5g1ByZ-JwkXnpwK4yvdcfK8" />
 <h1 align="center">Hi 👋, I'm Priyanka Meshram</h1>
 <h3 align="center">A passionate Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.</h3>
 
@@ -20,7 +23,6 @@
 <a href="https://www.instagram.com/__.krutikka.mess__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__.krutikka.mess__/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/piya_meshram0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/piya_meshram0204" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
@@ -29,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanka-meshram&show_icons=true&locale=en" alt="priyanka-meshram" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka-meshram&" alt="priyanka-meshram" /></p>
+</head>
